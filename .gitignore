@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!moveUtility.jar
+!.config
+!update.bat
+!update.sh
+!README.txt
