@@ -15,4 +15,5 @@ echo running the program for %key%
 
 git -C pgdp2223-tests pull
 java -jar moveUtility.jar %key%
+
 pause
